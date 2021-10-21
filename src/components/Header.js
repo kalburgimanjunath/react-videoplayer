@@ -17,7 +17,7 @@ export default function Header() {
           <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="https://bryanrojasq.wordpress.com">
-          Atahska
+          
         </a>
       </div>
 
