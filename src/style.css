@@ -1,0 +1,22 @@
+@import './css/style.css';
+
+h1,
+p {
+  font-family: Lato;
+}
+body {
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 100;
+  background: #000;
+}
+.iframework {
+  top: 45px;
+  position: fixed;
+  width: 101%;
+  height: calc(100% - 42px);
+}
